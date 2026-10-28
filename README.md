@@ -3,8 +3,8 @@
 **Ne işe yarar?** Mac'in masaüstündeki **Ortak** klasörünü Windows bilgisayardan açmanı sağlar. Bir klasöre attığın dosya iki bilgisayarda da görünür.
 
 **İndir:**
-- 🍎 **Mac için:** [Ortak-Klasor-Kur-Mac.zip](https://github.com/m-salihyuksel/macbook-windows-ortak-baglanti/releases/latest/download/Ortak-Klasor-Kur-Mac.zip)
-- 🪟 **Windows için:** [Mac-Ortak-Baglan.bat](https://github.com/m-salihyuksel/macbook-windows-ortak-baglanti/releases/latest/download/Mac-Ortak-Baglan.bat)
+- 🍎 **Mac için:** [Ortak-Klasor-Kur-Mac.zip](https://github.com/m-salihyuksel/macbook-windows-ortak-baglanti/raw/main/indir/Ortak-Klasor-Kur-Mac.zip)
+- 🪟 **Windows için:** [Mac-Ortak-Baglan-Windows.zip](https://github.com/m-salihyuksel/macbook-windows-ortak-baglanti/raw/main/indir/Mac-Ortak-Baglan-Windows.zip)
 
 Önce Mac'tekini, sonra Windows'takini çalıştır. Ayrıntılı anlatım aşağıda.
 
@@ -27,9 +27,10 @@
 
 ### 2. Windows
 
-1. **Mac-Ortak-Baglan.bat** dosyasını indirip çift tıkla.
-2. Mac'teki uygulamanın gösterdiği **adresi**, **kullanıcı adını** ve **Mac şifreni** gir.
-3. Klasör bir sürücü olarak bağlanır (M:, N: …) ve masaüstüne **Mac Ortak** kısayolu eklenir.
+1. **Mac-Ortak-Baglan-Windows.zip** dosyasını indir, sağ tıklayıp **Tümünü ayıkla** de.
+2. Çıkan **Mac-Ortak-Baglan.bat** dosyasına çift tıkla.
+3. Mac'teki uygulamanın gösterdiği **adresi**, **kullanıcı adını** ve **Mac şifreni** gir.
+4. Klasör bir sürücü olarak bağlanır (M:, N: …) ve masaüstüne **Mac Ortak** kısayolu eklenir.
 
 > **"Windows bilgisayarınızı korudu" uyarısı çıkarsa:** **Ek bilgi** → **Yine de çalıştır**.
 
